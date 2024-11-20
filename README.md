@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Abderahmane</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A passionate python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdxoux&label=Profile%20views&color=0e75b6&style=flat" alt="abdxoux" /> </p>
 
-- 🌱 I’m currently learning **Android Devlopment**
+- 🌱 I’m currently learning **cross platform Devlopment and automative systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
